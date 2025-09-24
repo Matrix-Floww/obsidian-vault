@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7cc328e0ac906503",
+    "id": "b287d54ddd2a8c50",
     "type": "split",
     "children": [
       {
-        "id": "73984b2c8f4e0ee2",
+        "id": "48f54ec3474e4c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1735253d3ff542ec",
+            "id": "b7920d7009f6e2bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28a18d545efdda07",
+    "id": "ac7c9f01d062b205",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "51949588df5af347",
+        "id": "d32b7a3d5a2fb84c",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "fe0f1b8a34ad1990",
+        "id": "f6c4e25b4a7d5fd1",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "f5985c92e130246c",
+        "id": "c8c83946fde4ea52",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "7e0e7a83430cb254",
+        "id": "f3df25599b274b7a",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,15 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f7f6a243d3a69bd6",
+    "id": "494443c8701d33ce",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "60eacbdd1b749c77",
+        "id": "04c1dc60e6561200",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,11 +112,12 @@
         }
       },
       {
-        "id": "e328af869b6014e3",
+        "id": "bf5efb14bcee6689",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -124,11 +126,12 @@
         }
       },
       {
-        "id": "331a8e881e78e2c8",
+        "id": "8d78422b50a860c5",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -152,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1735253d3ff542ec",
+  "active": "b7920d7009f6e2bb",
   "lastOpenFiles": [
     "README.md"
   ]
