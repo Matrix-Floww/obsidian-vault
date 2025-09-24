@@ -1,1 +1,0 @@
-- removed the readme directory , lets see if it setill owrks or what is needed to do 
