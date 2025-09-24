@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello first note from pc.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello first note from pc"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello first note from pc.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hello first note from pc"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -169,8 +169,8 @@
   },
   "active": "9488dd70c99ef89a",
   "lastOpenFiles": [
-    "Untitled.md",
     "Hello first note from pc.md",
+    "Untitled.md",
     "Readme/README.md",
     "README.md",
     "Readme"
