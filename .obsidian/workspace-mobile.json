@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "b287d54ddd2a8c50",
+    "id": "7cc328e0ac906503",
     "type": "split",
     "children": [
       {
-        "id": "48f54ec3474e4c6f",
+        "id": "73984b2c8f4e0ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "b7920d7009f6e2bb",
+            "id": "1735253d3ff542ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -27,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac7c9f01d062b205",
+    "id": "28a18d545efdda07",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d32b7a3d5a2fb84c",
+        "id": "51949588df5af347",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +40,7 @@
         }
       },
       {
-        "id": "f6c4e25b4a7d5fd1",
+        "id": "fe0f1b8a34ad1990",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +57,7 @@
         }
       },
       {
-        "id": "c8c83946fde4ea52",
+        "id": "f5985c92e130246c",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +72,7 @@
         }
       },
       {
-        "id": "f3df25599b274b7a",
+        "id": "7e0e7a83430cb254",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,16 +85,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "494443c8701d33ce",
+    "id": "f7f6a243d3a69bd6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "04c1dc60e6561200",
+        "id": "60eacbdd1b749c77",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,12 +107,11 @@
         }
       },
       {
-        "id": "bf5efb14bcee6689",
+        "id": "e328af869b6014e3",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -126,12 +120,11 @@
         }
       },
       {
-        "id": "8d78422b50a860c5",
+        "id": "331a8e881e78e2c8",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -139,9 +132,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "8ec3edc5253e1d2e",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +158,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7920d7009f6e2bb",
+  "active": "1735253d3ff542ec",
   "lastOpenFiles": [
-    "README.md"
+    "pc folder test.md",
+    "Test_Note.md",
+    "/Test_Note.md",
+    "README.md",
+    "/pc folder test.md",
+    "/README.md"
   ]
 }
